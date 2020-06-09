@@ -11,10 +11,10 @@ Enrolling Details
 
 ![Step 1 Enrolling person Details](https://user-images.githubusercontent.com/66684630/84168569-2d97e600-aa95-11ea-9af1-15b0251daffe.PNG)
 
-Detection And Recognition
+Detection And Recognition-Trained Image
 
 ![Step-2 Recognize](https://user-images.githubusercontent.com/66684630/84168576-2f61a980-aa95-11ea-8285-98f0b4b0d4eb.PNG)
 
-Face Mismatch
+Untrained Image
 
 ![Unknown Recognize](https://user-images.githubusercontent.com/66684630/84168580-34265d80-aa95-11ea-8df4-3aebce05ff5f.PNG)
